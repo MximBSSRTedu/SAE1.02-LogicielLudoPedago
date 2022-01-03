@@ -23,4 +23,5 @@
 • PixelArt de personnages (mâle et femelle)<br>
 • PixelArt d'ennemis (2-3 ou un design pour tous les ennemis)<br>
 • PixelArt de GameOver
+• PixelArt de Win
 </p>
