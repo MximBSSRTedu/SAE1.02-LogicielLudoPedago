@@ -1,0 +1,26 @@
+//      ------ TEST LABYRINTH ------
+
+//      xxxxxxxxxxxxxxxxxxxxxxxxxxxxfx
+//      xxxxxiiiiioxxxxxxxxoiiiiiixxix
+//      xxxxxixxxxxxxxxxxxxxxxxxxixxix
+//      xxxxxixxxxxiiiiiitiiiiiiiixxix
+//      xxxxxixxxxxixxxxxixxxxxxxixxix
+//      xxxxxixxxxxixxxxxixxxxxxxiiiix
+//      xxxxxixxxxxixxxxxixxxxxxxxxxxx
+//      xxxxxtiiiiiixxxxxiiiiitiiiiiox
+//      xxxxxixxxxxxxxxxxxxxxxixxxxxxx
+//      xoiixoxxxxxxxxxxxxxxxxixxxxxxx
+//      xxxixxxxxxxxxxxxxxxxxxixxxxxxx
+//      xxxtiiiiiiiiiiiiiiiiiitxxxxxxx
+//      xxxixxxxxxxxxxxxxxxxxxixxxxxxx
+//      xxxixxxxxxxxxxxxxxxxxxixxxxxxx
+//      xxxixxxxxxxxxxxxxoiiiiixxxxxxx
+//      xxxdxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+// on commence à d
+// f est la fin
+// i est un chemin valable (lance le programme questionOuTranquille)
+// o enclenche un demi-tour
+// t est une intesection (lance un choix de direction)
+
