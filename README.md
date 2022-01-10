@@ -4,6 +4,17 @@
 
 Pour de meilleurs résultats, changer la police du terminal en une police à "chasse fixe" (comme ``Courier New`` par exemple)
 
+## // Notes à moi même
+
+• Il faut un truc qui cherche un topic aléatoire, et dans ce topic une question :
+
+- cherche dans un fichier:
+- • theme + random(1-6)
+- • • question + random (1-20)
+
+
+
+
 
 ## // Règles générales
 ###### *liste des règles de bases du déroulement du jeu*
