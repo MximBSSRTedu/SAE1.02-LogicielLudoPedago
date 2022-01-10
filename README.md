@@ -2,6 +2,8 @@
 
 ## // COMMENT INSTALLER
 
+Pour de meilleurs résultats, changer la police du terminal en une police à "chasse fixe" (comme Courier New par exemple)
+
 
 ## // Règles générales
 ###### *liste des règles de bases du déroulement du jeu*
