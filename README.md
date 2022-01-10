@@ -1,5 +1,8 @@
 # SAE1.02 // Logiciel Ludo-Pédagogique
-<p></p>
+
+!(https://img.bfmtv.com/c/630/420/9de/ebf8b2b29bf4df5effdd8173d1ce0.jpg)
+
+
 ## // COMMENT INSTALLER
 
 Pour de meilleurs résultats, changer la police du terminal en une police à "chasse fixe" (comme ``Courier New`` par exemple)
